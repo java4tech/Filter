@@ -29,4 +29,5 @@ s.tradingview.com##.snap-3jwwmr9K.bottom-21EGGcaf.end-1tjyjlqO.label-3pIbol5-.la
 
 
 ! 2020-11-14 https://simplywall.st
-simplywall.st##+js(addEventListener-defuser.js, scroll, ())
+!simplywall.st##+js(addEventListener-defuser.js, scroll, ())
+simplywall.st###layout:style(filter: blur(0px) !important;)
