@@ -1,0 +1,36 @@
+www.ajja.org.au
+
+! 10/15/2019 https://www.pinterest.com.au
+www.pinterest.com.au##.Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div > .FullPageModal__scroller > div > div > div
+www.pinterest.com.au##.Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div > .FullPageModal__scroller > div > div
+www.pinterest.com.au##.Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div > .FullPageModal__scroller
+www.pinterest.com.au###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div
+www.pinterest.com.au###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div
+www.pinterest.com.au###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div
+www.pinterest.com.au###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > div:nth-of-type(2) > div > div:nth-of-type(2)
+www.pinterest.com.au###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > div:nth-of-type(2) > div
+
+! 1/13/2020 https://gocharting.com
+www.westafricanresources.com
+
+! 3/21/2020 https://www.afr.com
+||www.afr.com/assets/a4142b15.png$image
+www.afr.com##._3MT_w
+
+! 6/12/2020 https://www.upgrad.com
+||www.upgrad.com/blog/wp-content/uploads/2020/06/popup_ad-blockchain.png$image
+
+! 8/17/2020 https://www.behance.net
+www.behance.net##.SignUpBlocker-popup-3co.Popup-popup-T3F
+www.behance.net##.SignUpBlocker-gradient-1lH
+
+! 2020-09-29 https://s.tradingview.com
+s.tradingview.com##.snap-3jwwmr9K.bottom-21EGGcaf.end-1tjyjlqO.label-3pIbol5-.label-13XFthDT
+
+
+! 2020-11-14 https://simplywall.st
+!simplywall.st##:xpath(//*[@id="blur-filter"] [@id="blur-css"])
+!simplywall.st##.ifcUju.sc-bdVaJa
+!simplywall.st###layout:style(filter: blur(0px) !important;)
+!simplywall.st###layout:style(filter: none !important)
+simplywall.st##+js(addEventListener-defuser.js, scroll, ())
